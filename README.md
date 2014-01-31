@@ -1,9 +1,14 @@
-雪服 新世界觀 說明
+雪漂時代（SF TIME）創刊號：新世界說明刊
 ----
-本手冊由雪服OP Fntsrswl主編。
+- 雪漂時代（Snow-Float TIME）
+- 001期
+- 2014創刊，不定期發刊
+- 發行人：Sntc06
+- 總編輯：Fntsrswl
+- 副總編輯：David50407
 
 ## 目錄
-- Ch1: 世界說明
+- Ch1: 世界觀說明
     - 雪一界
     - 雪二界
     - 新世界
@@ -20,7 +25,7 @@
     - 3-6: 分區：遺址保存
     - 3-7: 分區：衛星城市
 
-## Ch1: 世界說明
+## Ch1: 世界觀說明
 ### 雪一界
 - OldWorld - 簡稱雪一界（SW1），元老開闢的地圖，凍結狀態。
 - OldWorld_nether - 雪一界地獄（SW1_N），不開放進入。
@@ -269,3 +274,5 @@ _* 圖：步驟三示意圖_
   [16]: https://lh5.googleusercontent.com/-vxl7FiqAGa0/UuuxkUusf2I/AAAAAAAAJ6k/3J-1s0vaK_8/s400/%25E9%25A0%2598%25E5%259C%25B0%25E6%258F%2592%25E6%258E%2592.png "領地插排.png"
   [17]: https://lh4.googleusercontent.com/-UJ0ogtA2hCE/Uuuxv28FuwI/AAAAAAAAJ64/P3rPyRtDG1g/s400/%25E6%258F%2590%25E5%2587%25BA%25E7%2594%25B3%25E8%25AB%258B.png "提出申請.png"
   [18]: https://lh4.googleusercontent.com/-b0GnF9JesnY/UuuyEpKCDBI/AAAAAAAAJ7M/KWdk_dcU67Q/s400/%25E8%259E%25A2%25E5%25B9%2595%25E5%25BF%25AB%25E7%2585%25A7+2014-01-31+%25E4%25B8%258B%25E5%258D%258810.23.40.png "RegionGuard"
+  
+  
