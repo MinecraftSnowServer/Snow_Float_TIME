@@ -90,7 +90,7 @@
 ![官道][7]
 
 ### 3-4: 分區
-
+![分區][8]
 
 ### 3-5: 玩家領地
 
@@ -102,6 +102,8 @@
 本區尚未開放。
 
   [Eldaria link]: http://www.minecraftforum.net/topic/822661-survcreation-eldaria-islands-v31-for-16x-15x-14x-50-biomes-3400-by-3100-750k-downloads
+
+
   [1]: https://lh6.googleusercontent.com/-7rH_5-YhVcg/UutqDXQJ8uI/AAAAAAAAJ1M/ctDcQS8H5tA/s400/Alpha%25E5%259C%25B0%25E5%259C%2596%25E4%25BB%258B%25E7%25B4%25B9.png "Alpha地圖介紹.png"
   [2]: https://lh6.googleusercontent.com/-XIDcOiT3BrQ/UutuqkQoGII/AAAAAAAAJ1g/0Sy0wfxKYZo/s400/%25E7%258E%258B%25E5%25A1%2594.png "王塔.png"
   [3]: https://lh6.googleusercontent.com/-LMo624lyFTs/Uutx8G--Q0I/AAAAAAAAJ18/5o6Kd7Vel_g/s500/%25E9%25A0%2598%25E5%259C%25B0%25E7%25AE%25A1%25E7%2590%2586%25E5%25B1%2580.png "領地管理局.png"
@@ -109,3 +111,4 @@
   [5]: https://lh5.googleusercontent.com/-ys4lHHnx1wc/UutySXVM7bI/AAAAAAAAJ2k/hFGK_k5nP_o/s500/%25E9%2583%25B5%25E5%25B1%2580.png "郵局.png"
   [6]: https://lh6.googleusercontent.com/-Vc8se85IqIQ/Uutyc1PXi0I/AAAAAAAAJ24/mzycGP1onbM/s500/%25E6%2596%25B0%25E4%25BA%25BA%25E8%25A8%2593%25E7%25B7%25B4%25E6%2589%2580.png "新人訓練所.png"
   [7]: https://lh3.googleusercontent.com/-UL9D_8i3Y1A/Uut4QHdfKnI/AAAAAAAAJ3Q/C-mz_JHLUJ8/s500/%25E5%25AE%2598%25E9%2581%2593.png "官道.png"
+  [8]: https://lh3.googleusercontent.com/-FBWPeA9j3ek/Uut7Hw3sRQI/AAAAAAAAJ3o/00lYHNF2Jjg/s500/%25E5%2588%2586%25E5%258D%2580.png "分區.png"
