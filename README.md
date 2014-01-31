@@ -3,20 +3,21 @@
 
 ## Ch1: 世界說明
 ### 雪一界
-- OldWorld - 簡稱雪一界（M01），元老開闢的地圖，凍結狀態。
-- OldWorld_nether - ，雪一界地獄（M01n），不開放進入。
-- OldWorld_the_end - 雪一界終界（M01e），不開放進入。
+- OldWorld - 簡稱雪一界（SW1），元老開闢的地圖，凍結狀態。
+- OldWorld_nether - ，雪一界地獄（SW1_N），不開放進入。
+- OldWorld_the_end - 雪一界終界，不開放進入。
 
 ### 雪二界
-- SnowWorld2 - 雪二界（M02），多數老玩家所在地圖，特殊型地圖。
-- SnowWorld2_nether - 雪二界地獄（M02n），本伺服器採唯一地獄制，特殊型地圖。
-- SnowWorld2_the_end - 雪二界終界（M02e），本伺服器採唯一終界制，特殊型地圖。
+- SnowWorld2 - 雪二界（SW2），多數老玩家所在地圖，特殊型地圖。
+- SnowWorld2_nether - 雪二界地獄（SW2_N），本伺服器採唯一地獄制，特殊型地圖。
+- SnowWorld2_the_end - 雪二界終界（SW2_E），本伺服器採唯一終界制，特殊型地圖。
 
 ### 新世界
-- Eldaria (已刪除) - 雪三界（M03），純粹測試。
-- CandyMountain - 雪天界/雪四界（M04），糖果山，已經轉移到Beta世界線，在2/1被刪除。
-- **AlphaWorld - 雪五界（M05），簡稱Alpha、王城，建設型地圖，全平坦地圖提供創作。**
-- **Beta - 雪六界（M06），拓荒型地圖。**
+- SnowWorld3 (已刪除) - 雪三界，純粹測試。
+- [Eldaria][Eldaria link] (已刪除) - 網友製作之地圖，測試匯入功能。
+- CandyMountain - 雪天界/雪四界（CM），糖果山，已經轉移到 Beta 世界，將在 2/1 刪除。
+- **AlphaWorld - 雪五界（Alpha），王城，建設型地圖，全平坦地圖提供創作。**
+- **Beta - 雪六界（Beta），拓荒型地圖。**
 
 ## Ch2: 地圖類型介紹
 ### Alpha (建設型地圖)
@@ -96,7 +97,7 @@
 ### 3-7: 衛星城市
 本區尚未開放。
 
-
+  [Eldaria link]: http://www.minecraftforum.net/topic/822661-survcreation-eldaria-islands-v31-for-16x-15x-14x-50-biomes-3400-by-3100-750k-downloads
   [1]: https://lh6.googleusercontent.com/-7rH_5-YhVcg/UutqDXQJ8uI/AAAAAAAAJ1M/ctDcQS8H5tA/s400/Alpha%25E5%259C%25B0%25E5%259C%2596%25E4%25BB%258B%25E7%25B4%25B9.png "Alpha地圖介紹.png"
   [2]: https://lh6.googleusercontent.com/-XIDcOiT3BrQ/UutuqkQoGII/AAAAAAAAJ1g/0Sy0wfxKYZo/s400/%25E7%258E%258B%25E5%25A1%2594.png "王塔.png"
   [3]: https://lh6.googleusercontent.com/-LMo624lyFTs/Uutx8G--Q0I/AAAAAAAAJ18/5o6Kd7Vel_g/s500/%25E9%25A0%2598%25E5%259C%25B0%25E7%25AE%25A1%25E7%2590%2586%25E5%25B1%2580.png "領地管理局.png"
