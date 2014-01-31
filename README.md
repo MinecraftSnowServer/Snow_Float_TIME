@@ -7,10 +7,18 @@
 - OldWorld_nether - ，雪一界地獄（SW1_N），不開放進入。
 - OldWorld_the_end - 雪一界終界，不開放進入。
 
+![enter image description here][1]
+
 ### 雪二界
 - SnowWorld2 - 雪二界（SW2），多數老玩家所在地圖，特殊型地圖。
 - SnowWorld2_nether - 雪二界地獄（SW2_N），本伺服器採唯一地獄制，特殊型地圖。
 - SnowWorld2_the_end - 雪二界終界（SW2_E），本伺服器採唯一終界制，特殊型地圖。
+
+![雪二界][2]
+
+![雪二界地獄][3]
+
+![雪二界終界][4]
 
 ### 新世界
 - SnowWorld3 (已刪除) - 雪三界，純粹測試。
@@ -18,6 +26,9 @@
 - CandyMountain - 雪天界/雪四界（CM），糖果山，已經轉移到 Beta 世界，將在 2/1 刪除。
 - **AlphaWorld - 雪五界（Alpha），王城，建設型地圖，全平坦地圖提供創作。**
 - **Beta - 雪六界（Beta），拓荒型地圖。**
+
+![糖果山][5]
+** 糖果山，本地圖已被刪除*
 
 ## Ch2: 地圖類型介紹
 ### Alpha (建設型地圖)
@@ -34,6 +45,9 @@
 世界類型：平地[自訂]（y=1~62:基岩，y=63~63:草地）
 其餘設定：TNT不可用、火焰延燒失效、苦力怕無法破壞地形
 
+![AlphaWorld][6]
+** AlphaWorld*
+
 ### Beta（拓荒型地圖）
 #### 簡介
 相較於建設型地圖的高度規範，本地圖的特性就是毫無王法，由當時活躍的玩家進行自治與團隊溝通，並盡量降低我們（ＯＰ群）對此類地圖的干涉，讓玩家只要在尊重其他玩家的前提下，擁有高度自由的玩樂與探索。本地圖主要目的是讓所有玩家進行資源採集以及探險。亦可在本地圖進行建設。並因為本類地圖生命週期固定，能讓玩家體驗從無到有的拓荒成就，並且快速體驗到麥塊官方更新的遊戲內容。
@@ -46,6 +60,9 @@
 世界類型：預設
 其餘設定：TNT可用、火焰延燒有效、苦力怕會破壞地形
 
+![雪六界][7]
+** Beta*
+
 ### Gamma（特殊型地圖）
 #### 簡介
 相較於前兩類地圖的明確方向，以及各只會有一種地圖世界的存在，特殊型地圖是將各種創立目的明確與特殊，但不在前兩類下的地圖收錄其中。所以此類地圖的創造設定會根據需求而有所不同，生命週期亦可能為永續或是定期。主要是收到大量玩家針對某類網路上流傳的特別地圖的玩樂需求，比如說闖關類型地圖、DOTA類型地圖、RPG類型地圖等，加入雪服讓大家同樂。
@@ -57,7 +74,7 @@
 在AlphaWorld的世界中心（ 方塊座標為 (x, z) = (0~1,0~1) 的格子上），並由二圓三方構成。中心點建立一個圓塔為管理中心；並往外建立方形城牆SINA，建立王城內城行政區；再往外建立圓形城牆ROSE，成為王城外城公設區；接著在建立方形城牆MARIA，形成王城郊區，最後在以紅色玻璃建立方形的警戒線，作為城界。
 
 #### AlphaWorld介紹 示意圖
-![AlphaWorld介紹][1]
+![AlphaWorld介紹][8]
 **本地圖分區由Fntsrswl著手規劃，並由眾玩家協同討論、定案。*
 
 ### 3-2: 內城行政區
@@ -72,27 +89,27 @@
 - 4F：OP辦公室
 - 5F：瞭望台
 
-![王塔][2]
+![王塔][9]
 **本建設由Mushroom_Tim設計與建造架構，並由Fntsrswl, David50407進行內部裝潢與頂樓設計。*
 
 #### 領地管理局
 作為玩家領地申請的管理場所，以及相關事項的申請與公告。詳細介紹可以參考 **[3-4: 分區]**、**[3-5: 玩家領地]**。
 
-![領地管理局][3]
+![領地管理局][10]
 *本建設由Mushroom_Tim設計與建造。*
 
 #### 傳送管理局
 專司通往世界之間的傳送門（Portal）的管理局，以哆啦a夢某集雲王國為設計靈感來源，以彩色玻璃營造出各色雲朵，然後建立傳送門，方面玩家進行遠距離傳送。除了公用通往個世界的傳送門以外，亦可申請個人傳送門，讓其他玩家可以進行拜訪。申請條件需為距離遙遠且願意接受玩家拜訪，若同意此條件即可向OP進行申請。
 
-![傳送管理局][4]
+![傳送管理局][11]
 **本建設由David50407, Fntsrswl, Paul 設計與建造。*
 
 #### 郵局
-![郵局][5]
+![郵局][12]
 **本建設由Mushroom_Tim設計與建造架構，並由Fntsrswl, David50407進行內部裝潢與頂樓設計。*
 
 #### 新人訓練所
-![新人訓練所][6]
+![新人訓練所][13]
 **本建設由Fntsrswl, David50407設計與建造。*
 
 ### 3-2: 外城公設區、城郊、城界
@@ -106,7 +123,7 @@
 
 官道依照他的方向分為四種顏色，分別是東青、南朱、西白、北黑，讓玩家在城內方便辨識方向。若是以x,z去區分方向，`x > 1`是東方，`x < 1`是西，`z > 1`是南，`z < 1`是北方。
 
-![官道公路][7]
+![官道公路][14]
 **官道公路是由Fntsrswl規劃，並由Eddy、David50407協助建設*
 
 #### 官道高鐵
@@ -115,7 +132,7 @@
 
 #### 官道地鐵
 **本建設與本介紹條目尚未完成。**
-**官道地鐵是由David50407, David11014, Urzue設計與建造。*
+**官道地鐵是由David50407, David11014, Urzzu設計與建造。*
 
 ### 3-4: 分區
 整個創作型地圖就會被官道公路劃分為四大區域，分別是東北、東南、西北、西南，我們將分項一一介紹。
@@ -132,25 +149,36 @@
 #### 西南：衛星城市
 設置為教學型建設保存區，並為王城子城的設置區域，未來王城面積不夠用時，可藉由子城的設置與傳送門搭配成為王城擴充。也會將比較吃資源的公設放置於此（例如畜牧業與村民交易業）。
 
-![分區][8]
+![分區][15]
 
 ### 3-5: 玩家領地
+玩家領地是AlphaWorld的創始核心之一，主要是建立由基石所圍住的固定範圍的區域，作為玩家的領地，讓創作型玩家可以省去整地的時間與勞務，專心在建設的創作上。而又隨區域的大小分圍大型玩家領地與小型玩家領地，關於區域的詳細介紹已在 **[3-4: 分區]** 說過，不在另外詳述。
 
+小型玩家領地的申請從2014/02/01正式向外開放。
+
+大型玩家領地的申請因為作業較為耗時耗工，暫時不對外開放，僅給予本伺服器有建設大型區域經驗與需求的老玩家進行申請。
 
 ### 3-6: 遺址保存
-本區尚未開放。
+**本區與本介紹條目尚未完成。**
 
 ### 3-7: 衛星城市
-本區尚未開放。
+**本區與本介紹條目尚未完成。**
 
   [Eldaria link]: http://www.minecraftforum.net/topic/822661-survcreation-eldaria-islands-v31-for-16x-15x-14x-50-biomes-3400-by-3100-750k-downloads
 
 
-  [1]: https://lh6.googleusercontent.com/-7rH_5-YhVcg/UutqDXQJ8uI/AAAAAAAAJ1M/ctDcQS8H5tA/s400/Alpha%25E5%259C%25B0%25E5%259C%2596%25E4%25BB%258B%25E7%25B4%25B9.png "Alpha地圖介紹.png"
-  [2]: https://lh6.googleusercontent.com/-XIDcOiT3BrQ/UutuqkQoGII/AAAAAAAAJ1g/0Sy0wfxKYZo/s400/%25E7%258E%258B%25E5%25A1%2594.png "王塔.png"
-  [3]: https://lh6.googleusercontent.com/-LMo624lyFTs/Uutx8G--Q0I/AAAAAAAAJ18/5o6Kd7Vel_g/s500/%25E9%25A0%2598%25E5%259C%25B0%25E7%25AE%25A1%25E7%2590%2586%25E5%25B1%2580.png "領地管理局.png"
-  [4]: https://lh6.googleusercontent.com/-9JixyNzJDXA/UutyFHqykbI/AAAAAAAAJ2Q/_NxShTQBueM/s500/%25E5%2582%25B3%25E9%2580%2581%25E7%25AE%25A1%25E7%2590%2586%25E5%25B1%2580.png "傳送管理局.png"
-  [5]: https://lh5.googleusercontent.com/-ys4lHHnx1wc/UutySXVM7bI/AAAAAAAAJ2k/hFGK_k5nP_o/s500/%25E9%2583%25B5%25E5%25B1%2580.png "郵局.png"
-  [6]: https://lh6.googleusercontent.com/-Vc8se85IqIQ/Uutyc1PXi0I/AAAAAAAAJ24/mzycGP1onbM/s500/%25E6%2596%25B0%25E4%25BA%25BA%25E8%25A8%2593%25E7%25B7%25B4%25E6%2589%2580.png "新人訓練所.png"
-  [7]: https://lh3.googleusercontent.com/-UL9D_8i3Y1A/Uut4QHdfKnI/AAAAAAAAJ3Q/C-mz_JHLUJ8/s500/%25E5%25AE%2598%25E9%2581%2593.png "官道.png"
-  [8]: https://lh3.googleusercontent.com/-FBWPeA9j3ek/Uut7Hw3sRQI/AAAAAAAAJ3o/00lYHNF2Jjg/s500/%25E5%2588%2586%25E5%258D%2580.png "分區.png"
+  [1]: https://lh5.googleusercontent.com/-a-Ndps_xAT0/UuuQe45aVPI/AAAAAAAAJ4A/dd5rVZacQas/s500/%25E9%259B%25AA%25E4%25B8%2580%25E7%2595%258C.png "雪一界.png"
+  [2]: https://lh3.googleusercontent.com/-VY0RufKcaeQ/UuuQsMWbQ0I/AAAAAAAAJ4U/ar3yodN1lcA/s500/%25E9%259B%25AA%25E4%25BA%258C%25E7%2595%258C.png "雪二界.png"
+  [3]: https://lh4.googleusercontent.com/-B1RYJ2HbeZA/UuuQzYNjetI/AAAAAAAAJ4o/Kb99a3wlvzc/s500/%25E5%259C%25B0%25E7%258D%2584.png "地獄.png"
+  [4]: https://lh3.googleusercontent.com/-K5DQRCMcaVw/UuuQ6GjPdVI/AAAAAAAAJ48/3Xhpq1cjlcw/s500/%25E7%25B5%2582%25E7%2595%258C.png "終界.png"
+  [5]: https://lh6.googleusercontent.com/-vwB1sSRjT_E/UuuRKeMdXmI/AAAAAAAAJ5Q/OPffBP8aj58/s500/%25E9%259B%25AA%25E5%259B%259B%25E7%2595%258C.png "雪四界.png"
+  [6]: https://lh5.googleusercontent.com/-z4i4qldkiZE/UuuSdN2RnEI/AAAAAAAAJ6M/gQKqIvCi1KU/s500/%25E9%259B%25AA%25E4%25BA%2594%25E7%2595%258C.png "雪五界.png"
+  [7]: https://lh3.googleusercontent.com/-NzLEXp0LByI/UuuRQ4OkohI/AAAAAAAAJ5k/nQbSWZ0WhHc/s500/%25E9%259B%25AA%25E5%2585%25AD%25E7%2595%258C.png "雪六界.png"
+  [8]: https://lh6.googleusercontent.com/-7rH_5-YhVcg/UutqDXQJ8uI/AAAAAAAAJ1M/ctDcQS8H5tA/s400/Alpha%25E5%259C%25B0%25E5%259C%2596%25E4%25BB%258B%25E7%25B4%25B9.png "Alpha地圖介紹.png"
+  [9]: https://lh6.googleusercontent.com/-XIDcOiT3BrQ/UutuqkQoGII/AAAAAAAAJ1g/0Sy0wfxKYZo/s400/%25E7%258E%258B%25E5%25A1%2594.png "王塔.png"
+  [10]: https://lh6.googleusercontent.com/-LMo624lyFTs/Uutx8G--Q0I/AAAAAAAAJ18/5o6Kd7Vel_g/s500/%25E9%25A0%2598%25E5%259C%25B0%25E7%25AE%25A1%25E7%2590%2586%25E5%25B1%2580.png "領地管理局.png"
+  [11]: https://lh6.googleusercontent.com/-9JixyNzJDXA/UutyFHqykbI/AAAAAAAAJ2Q/_NxShTQBueM/s500/%25E5%2582%25B3%25E9%2580%2581%25E7%25AE%25A1%25E7%2590%2586%25E5%25B1%2580.png "傳送管理局.png"
+  [12]: https://lh5.googleusercontent.com/-ys4lHHnx1wc/UutySXVM7bI/AAAAAAAAJ2k/hFGK_k5nP_o/s500/%25E9%2583%25B5%25E5%25B1%2580.png "郵局.png"
+  [13]: https://lh6.googleusercontent.com/-Vc8se85IqIQ/Uutyc1PXi0I/AAAAAAAAJ24/mzycGP1onbM/s500/%25E6%2596%25B0%25E4%25BA%25BA%25E8%25A8%2593%25E7%25B7%25B4%25E6%2589%2580.png "新人訓練所.png"
+  [14]: https://lh3.googleusercontent.com/-UL9D_8i3Y1A/Uut4QHdfKnI/AAAAAAAAJ3Q/C-mz_JHLUJ8/s500/%25E5%25AE%2598%25E9%2581%2593.png "官道.png"
+  [15]: https://lh3.googleusercontent.com/-FBWPeA9j3ek/Uut7Hw3sRQI/AAAAAAAAJ3o/00lYHNF2Jjg/s500/%25E5%2588%2586%25E5%258D%2580.png "分區.png"
