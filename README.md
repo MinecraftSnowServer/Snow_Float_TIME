@@ -1,11 +1,13 @@
 雪漂時代（SF TIME）創刊號：新世界說明刊
 ----
 - 雪漂時代（Snow-Float TIME）
-- 001期
+- 001期，2014年02月
 - 2014創刊，不定期發刊
 - 發行人：Sntc06
 - 總編輯：Fntsrswl
 - 副總編輯：David50407
+
+**本刊尚未全部完成，會陸續更新**
 
 ## 目錄
 - Ch1: 世界觀說明
@@ -157,8 +159,90 @@ _* 圖：本建設由MushroomTim設計與建造架構，並由Fntsrswl, David504
 
 _* 圖：本建設由Fntsrswl, David50407設計與建造。_
 
-### 3-2: 外城公設區、城郊、城界
+### 3-2-1: 外城公設區
 **本部分說明尚未完成，敬請期待。**
+
+#### 子、政務院（王城行政院）
+本建設由Sntc06主導，尚在建設中。
+
+#### 丑、從缺
+
+#### 寅、神社
+神社作為整個雪服的信仰中心，供奉著我們的創世主——雪神，「雪人是我們的神！」雪服的玩家嘴裡總是念念不忘的掛著這句話，身為整個雪服信仰，為雪人建立神社是必須的。而在本神社的附殿，則是供奉著為我們世界提供效能的漂J，感謝其為雪服的貢獻。本雪飄時代亦是以這兩位大神為命名，紀念著創造這個世界的雪人x漂J，雪人是我們的神，阿門。
+
+除了供奉兩位大神外，本神社也有著忠烈祠與封神榜的功能，用來彰揚特定玩家為雪服作出的貢獻，繼承存在於雪一界的市中心第一代的封神榜。
+
+![神社][14]
+
+_*圖：神社是由paul主導建設，並由David50407協助建設。_
+
+#### 卯、從缺
+_尚未規劃。_
+
+#### 辰、從缺
+_尚未規劃。_
+
+#### 巳、從缺
+_尚未規劃。_
+
+#### 午、從缺
+_尚未規劃。_
+
+#### 未、從缺
+_尚未規劃。_
+
+#### 申、從缺
+_尚未規劃。_
+
+#### 酉、從缺
+_尚未規劃。_
+
+#### 戌、從缺
+_尚未規劃。_
+
+#### 亥、教堂
+
+教堂除了供給一般玩家禱告、懺悔的信仰場所外，更是雪服的典禮中心，舉凡各式特別節慶、婚喪、活動開閉幕、雪服公聽會皆會在教堂進行，是屬於雪服的正式集會所。
+
+![教堂][15]
+
+_*圖：神社是由paul主導建設，並由David50407協助建設。_
+
+
+### 3-2-2 城郊
+
+#### 東北：銀行物資庫
+_尚未建設。_
+
+#### 東南：自由市場
+_尚未建設。_
+
+#### 南東：雪飄大學
+雪飄大學是由david11014主導建設，尚在建設中。
+
+本大學主要有以下幾個研究院：
+
+- 皇家學院
+- 紅石研究院
+- 中央研究院
+
+#### 南西：實驗場
+_尚未建設。_
+
+#### 西南：競技場
+_尚未建設。_
+
+#### 西北：巨蛋
+_尚未建設。_
+
+#### 北東：勞改局：監獄暨勞動農場
+_尚未建設。_
+
+#### 北西：行政大樓
+_尚未建設。_
+
+### 3-3-3 城界
+
 
 ### 3-3: 官道
 官道是指AlphaWorld的交通系統，並有通往東西南北的官道公路與官道高鐵，還有環繞王城的官道地鐵，我們將分項進行介紹。
@@ -168,7 +252,7 @@ _* 圖：本建設由Fntsrswl, David50407設計與建造。_
 
 官道依照他的方向分為四種顏色，分別是東青、南朱、西白、北黑，讓玩家在城內方便辨識方向。若是以x,z去區分方向，`x > 1`是東方，`x < 1`是西，`z > 1`是南，`z < 1`是北方。
 
-![官道公路][14]
+![官道公路][16]
 
 _* 圖：官道公路是由Fntsrswl規劃，並由Eddy、David50407協助建設_
 
@@ -197,7 +281,7 @@ _* 圖：官道地鐵是由David50407, David11014, Urzzu設計與建造。_
 #### 西南：衛星城市
 設置為教學型建設保存區，並為王城子城的設置區域，未來王城面積不夠用時，可藉由子城的設置與傳送門搭配成為王城擴充。也會將比較吃資源的公設放置於此（例如畜牧業與村民交易業）。
 
-![分區][15]
+![分區][17]
 
 _* 圖：分區示意圖_
 
@@ -214,7 +298,7 @@ _* 圖：分區示意圖_
     - 區域代號，Ex `RegionDemo`
     - 申請日期，Ex `2014.02.01`
 
-![領地插牌][16]
+![領地插牌][18]
     
 _* 圖：步驟一示意圖_
     
@@ -224,13 +308,13 @@ _* 圖：步驟一示意圖_
     - 區域代號，Ex `RegionDemo`
     - 申請日期，Ex `2014.02.01`
 
-![提出申請][17]
+![提出申請][19]
 
 _* 圖：步驟二示意圖_
 
 - \#3 等待OP幫忙設置RegionGuard。當你看到動態地圖上，您申請區域上有紅色的方框時即代表該區域已成為您的領地。領地代碼將以`P_S_X坐標-Z坐標_區域代碼`命名，Ex `P_S_441-82_RegionDemo`。
 
-![RegionGuard][18]
+![RegionGuard][20]
 
 _* 圖：步驟三示意圖_
 
@@ -253,8 +337,9 @@ _* 圖：步驟三示意圖_
 ### 3-7: 衛星城市
 **本區與本介紹條目尚未完成。**
 
-  [Eldaria link]: http://www.minecraftforum.net/topic/822661-survcreation-eldaria-islands-v31-for-16x-15x-14x-50-biomes-3400-by-3100-750k-downloads
 
+
+  [Eldaria link]: http://www.minecraftforum.net/topic/822661-survcreation-eldaria-islands-v31-for-16x-15x-14x-50-biomes-3400-by-3100-750k-downloads
 
   [1]: https://lh5.googleusercontent.com/-a-Ndps_xAT0/UuuQe45aVPI/AAAAAAAAJ4A/dd5rVZacQas/s500/%25E9%259B%25AA%25E4%25B8%2580%25E7%2595%258C.png "雪一界.png"
   [2]: https://lh3.googleusercontent.com/-VY0RufKcaeQ/UuuQsMWbQ0I/AAAAAAAAJ4U/ar3yodN1lcA/s500/%25E9%259B%25AA%25E4%25BA%258C%25E7%2595%258C.png "雪二界.png"
@@ -269,10 +354,10 @@ _* 圖：步驟三示意圖_
   [11]: https://lh6.googleusercontent.com/-9JixyNzJDXA/UutyFHqykbI/AAAAAAAAJ2Q/_NxShTQBueM/s500/%25E5%2582%25B3%25E9%2580%2581%25E7%25AE%25A1%25E7%2590%2586%25E5%25B1%2580.png "傳送管理局.png"
   [12]: https://lh5.googleusercontent.com/-ys4lHHnx1wc/UutySXVM7bI/AAAAAAAAJ2k/hFGK_k5nP_o/s500/%25E9%2583%25B5%25E5%25B1%2580.png "郵局.png"
   [13]: https://lh6.googleusercontent.com/-Vc8se85IqIQ/Uutyc1PXi0I/AAAAAAAAJ24/mzycGP1onbM/s500/%25E6%2596%25B0%25E4%25BA%25BA%25E8%25A8%2593%25E7%25B7%25B4%25E6%2589%2580.png "新人訓練所.png"
-  [14]: https://lh3.googleusercontent.com/-UL9D_8i3Y1A/Uut4QHdfKnI/AAAAAAAAJ3Q/C-mz_JHLUJ8/s500/%25E5%25AE%2598%25E9%2581%2593.png "官道.png"
-  [15]: https://lh3.googleusercontent.com/-FBWPeA9j3ek/Uut7Hw3sRQI/AAAAAAAAJ3o/00lYHNF2Jjg/s500/%25E5%2588%2586%25E5%258D%2580.png "分區.png"
-  [16]: https://lh5.googleusercontent.com/-vxl7FiqAGa0/UuuxkUusf2I/AAAAAAAAJ6k/3J-1s0vaK_8/s400/%25E9%25A0%2598%25E5%259C%25B0%25E6%258F%2592%25E6%258E%2592.png "領地插排.png"
-  [17]: https://lh4.googleusercontent.com/-UJ0ogtA2hCE/Uuuxv28FuwI/AAAAAAAAJ64/P3rPyRtDG1g/s400/%25E6%258F%2590%25E5%2587%25BA%25E7%2594%25B3%25E8%25AB%258B.png "提出申請.png"
-  [18]: https://lh4.googleusercontent.com/-b0GnF9JesnY/UuuyEpKCDBI/AAAAAAAAJ7M/KWdk_dcU67Q/s400/%25E8%259E%25A2%25E5%25B9%2595%25E5%25BF%25AB%25E7%2585%25A7+2014-01-31+%25E4%25B8%258B%25E5%258D%258810.23.40.png "RegionGuard"
-  
-  
+  [14]: https://lh5.googleusercontent.com/-jy5TfFBaT7E/UuvwP2XCSyI/AAAAAAAAJ7k/pKI_8S-z-pQ/s500/%25E7%25A5%259E%25E7%25A4%25BE.png "神社.png"
+  [15]: https://lh3.googleusercontent.com/-WtrWrOMALMA/Uuv0Db-6ftI/AAAAAAAAJ78/lehqvSnYdao/s500/%25E6%2595%2599%25E5%25A0%2582.png "教堂.png"
+  [16]: https://lh3.googleusercontent.com/-UL9D_8i3Y1A/Uut4QHdfKnI/AAAAAAAAJ3Q/C-mz_JHLUJ8/s500/%25E5%25AE%2598%25E9%2581%2593.png "官道.png"
+  [17]: https://lh3.googleusercontent.com/-FBWPeA9j3ek/Uut7Hw3sRQI/AAAAAAAAJ3o/00lYHNF2Jjg/s500/%25E5%2588%2586%25E5%258D%2580.png "分區.png"
+  [18]: https://lh5.googleusercontent.com/-vxl7FiqAGa0/UuuxkUusf2I/AAAAAAAAJ6k/3J-1s0vaK_8/s400/%25E9%25A0%2598%25E5%259C%25B0%25E6%258F%2592%25E6%258E%2592.png "領地插排.png"
+  [19]: https://lh4.googleusercontent.com/-UJ0ogtA2hCE/Uuuxv28FuwI/AAAAAAAAJ64/P3rPyRtDG1g/s400/%25E6%258F%2590%25E5%2587%25BA%25E7%2594%25B3%25E8%25AB%258B.png "提出申請.png"
+  [20]: https://lh4.googleusercontent.com/-b0GnF9JesnY/UuuyEpKCDBI/AAAAAAAAJ7M/KWdk_dcU67Q/s400/%25E8%259E%25A2%25E5%25B9%2595%25E5%25BF%25AB%25E7%2585%25A7+2014-01-31+%25E4%25B8%258B%25E5%258D%258810.23.40.png "RegionGuard"
