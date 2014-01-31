@@ -82,7 +82,11 @@
 本部分說明尚未完成，敬請期待。
 
 ### 3-3: 官道
-官
+官道是只從王塔向東南西北延伸的道路，官道因此將AlphaWorld分為四大區域，關於區域的介紹我們在「分區」章節會另外說明。
+
+官道依照他的方向分為四種顏色，分別是東青、南朱、西白、北黑，讓玩家在城內方便辨識方向。若是以x,z去區分方向，`x > 1`是東方，`x < 1`是西，`z > 1`是南，`z < 1`是北方。
+
+![官道][7]
 
 ### 3-4: 分區
 
@@ -103,3 +107,4 @@
   [4]: https://lh6.googleusercontent.com/-9JixyNzJDXA/UutyFHqykbI/AAAAAAAAJ2Q/_NxShTQBueM/s500/%25E5%2582%25B3%25E9%2580%2581%25E7%25AE%25A1%25E7%2590%2586%25E5%25B1%2580.png "傳送管理局.png"
   [5]: https://lh5.googleusercontent.com/-ys4lHHnx1wc/UutySXVM7bI/AAAAAAAAJ2k/hFGK_k5nP_o/s500/%25E9%2583%25B5%25E5%25B1%2580.png "郵局.png"
   [6]: https://lh6.googleusercontent.com/-Vc8se85IqIQ/Uutyc1PXi0I/AAAAAAAAJ24/mzycGP1onbM/s500/%25E6%2596%25B0%25E4%25BA%25BA%25E8%25A8%2593%25E7%25B7%25B4%25E6%2589%2580.png "新人訓練所.png"
+  [7]: https://lh3.googleusercontent.com/-UL9D_8i3Y1A/Uut4QHdfKnI/AAAAAAAAJ3Q/C-mz_JHLUJ8/s500/%25E5%25AE%2598%25E9%2581%2593.png "官道.png"
