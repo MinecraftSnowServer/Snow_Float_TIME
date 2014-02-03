@@ -14,8 +14,15 @@
 發行人：雪人（Sntc06）
 編輯群：月湖（Fntsrswl）、喜德（David50407）
 
+## 相關連結
+- [雪服官方網站][OfficialSite]
+- [雪服官方粉絲專頁][OfficialFans]
+- [BBS - 龍夢記元（Minecraft）][EodBBS]
+
 ## 感謝
 
 
-
+  [OfficialSite]: http://mine.snowtec.org/wiki/
+  [OfficialFans]: https://www.facebook.com/SnowServer/
+  [EodBBS]: telnet://eod.twbbs.org/
   [J001]: https://github.com/Childish-Ghost/Snow_Float_TIME/blob/master/001_New_World_Manual.md
