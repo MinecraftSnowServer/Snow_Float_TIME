@@ -143,7 +143,7 @@ _* 圖：本建設由MushroomTim設計與建造。_
 
 ![傳送管理局][11]
 
-_* 圖：本建設由David50407, Fntsrswl, Paul 設計與建造。_ 
+_* 圖：本建設由David50407, Fntsrswl, Paul 設計與建造。_
 
 #### 郵局
 郵局是雪服的資源流通中心，在庫房裡提供玩家捐贈物品讓玩家任意取用。並在庫房地下室置有郵寄中心，為了方便玩家進行物品存放與贈與，每個玩家可以申請一個大置物箱的空間，並能上鎖，除此之外另附有投寄箱，方便其他玩家寄贈物品給該置物箱的主人。
@@ -163,7 +163,11 @@ _* 圖：本建設由Fntsrswl, David50407設計與建造。_
 **本部分說明尚未完成，敬請期待。**
 
 #### 子、政務院（王城行政院）
-本建設由Sntc06主導，尚在建設中。
+政務院為王城辦公中心，內有辦公室與供職員、長官使用之演講廳。
+
+![政務院][21]
+
+_* 圖：本建設由Sntc06設計與建造。_
 
 #### 丑、從缺
 
@@ -305,9 +309,9 @@ _* 圖：分區示意圖_
     - 申請日期，Ex `2014.02.01`
 
 ![領地插牌][18]
-    
+
 _* 圖：步驟一示意圖_
-    
+
 - \#2 到領地管理局的申請牆（建築東面玻璃牆左邊（東邊）區域）上，從第一行到第四行分別寫上：
     - 區域突起基石xz坐標，Ex `POS = (411, 82)`
     - 玩家名稱，Ex `Sntc06`
@@ -367,3 +371,4 @@ _* 圖：步驟三示意圖_
   [18]: https://lh5.googleusercontent.com/-vxl7FiqAGa0/UuuxkUusf2I/AAAAAAAAJ6k/3J-1s0vaK_8/s400/%25E9%25A0%2598%25E5%259C%25B0%25E6%258F%2592%25E6%258E%2592.png "領地插排.png"
   [19]: https://lh4.googleusercontent.com/-UJ0ogtA2hCE/Uuuxv28FuwI/AAAAAAAAJ64/P3rPyRtDG1g/s400/%25E6%258F%2590%25E5%2587%25BA%25E7%2594%25B3%25E8%25AB%258B.png "提出申請.png"
   [20]: https://lh4.googleusercontent.com/-b0GnF9JesnY/UuuyEpKCDBI/AAAAAAAAJ7M/KWdk_dcU67Q/s400/%25E8%259E%25A2%25E5%25B9%2595%25E5%25BF%25AB%25E7%2585%25A7+2014-01-31+%25E4%25B8%258B%25E5%258D%258810.23.40.png "RegionGuard"
+  [21]: https://lh4.googleusercontent.com/-WM0k_72ipwI/UvEn1iKIH1I/AAAAAAAASIQ/BSPQVN3hvUQ/w854-h480-no/2014-02-05_01.47.05.png "行政局.png"
